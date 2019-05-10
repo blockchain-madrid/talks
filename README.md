@@ -40,4 +40,5 @@ El tema principal, obviamente, deberían ser cadenas de bloques públicas como B
 - El futuro de Bitcoin, Ethereum, etc.
 
 ## Próximas charlas
-Pronto anunciaremos próximas charlas. De momento, puedes revisar la sección de [issues](https://github.com/blockchain-madrid/talks/issues) para saber cuáles se han solicitado y en los [pull requests](https://github.com/blockchain-madrid/talks/pull-requests) cuáles se han propuesto.
+Pronto anunciaremos próximas charlas.
+De momento, puedes revisar la sección de [issues](https://github.com/blockchain-madrid/talks/issues) para saber cuáles se han solicitado y en los [pull requests](https://github.com/blockchain-madrid/talks/pull-requests) cuáles se han propuesto.
